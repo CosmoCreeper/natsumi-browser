@@ -1,16 +1,16 @@
 {
   "id": "natsumi-browser",
-  "homepage": "https://github.com/greeeen-dev/natsumi-browser",
+  "homepage": "https://github.com/greeeen-dev/natsumi-browser/tree/dev",
   "author": "greeeen-dev",
   "name": "Natsumi Browser",
   "description": "A skin for Firefox and its forks that makes things flow. ",
   "version": "4.0.2",
   "createdAt": "2024-12-06T10:19:47Z",
-  "readme": "https://raw.githubusercontent.com/greeeen-dev/natsumi-browser/main/README.md",
+  "readme": "https://raw.githubusercontent.com/greeeen-dev/natsumi-browser/dev/README.md",
   "image": "https://github.com/greeeen-dev/natsumi-browser/raw/dev/images/main-backgroundless.png",
   "style": {
-    "chrome": "https://raw.githubusercontent.com/greeeen-dev/natsumi-browser/main/userChrome.css",
-    "content": "https://raw.githubusercontent.com/greeeen-dev/natsumi-browser/main/userContent.css"
+    "chrome": "https://raw.githubusercontent.com/greeeen-dev/natsumi-browser/dev/userChrome.css",
+    "content": "https://raw.githubusercontent.com/greeeen-dev/natsumi-browser/dev/userContent.css"
   },
   "tags": [
     "content",
